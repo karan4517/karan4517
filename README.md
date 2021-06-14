@@ -1,16 +1,16 @@
-### Hi there 👋
+### I'm Karan Gupta ! 👋
 
-<!--
-**karan4517/karan4517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+- 🔭 I’m currently working on ... JAVA & Android Projects 
+- 🌱 I’m currently learning ... Data structure & Algo
+- 👯 I’m looking to collaborate on ... Github
+- 🤔 I’m looking for help with ... How to be more familier with github
+- 💬 Ask me about ... java , swing , awt , and my projects too.
+- 📫 How to reach me: ... 🟦Linkedin-https://www.linkedin.com/in/karan-gupta-5977ba193
+-                         🟥Instagram-@karan_sahu_kraxo
+- 😄 Pronouns: ... He/His
+- ⚡ Fun fact: ... I'm also learning 😊
 -->
