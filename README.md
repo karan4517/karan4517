@@ -30,6 +30,5 @@ I am a Final Year Student at SRMCEM LUCKNOW currently undertaking my Bachelors i
 
 <img src="https://github-readme-stats.vercel.app/api?username=karan4517&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-  <a href="https://github.com/karan4517/github-readme-stats"><img alt="Karan Gupta's's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan4517&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   
   ![](https://activity-graph.herokuapp.com/graph?username=karan4517&theme=github)
