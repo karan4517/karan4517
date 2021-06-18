@@ -1,7 +1,20 @@
-### I'm Karan Gupta ! 👋
+![Hello](https://user-images.githubusercontent.com/74948705/122553919-ea803380-d055-11eb-9922-6290df4db92b.gif)
 
 
+<h1 align="center">👋 Karan Gupta</h1>
 
+ <p align="center">
+    <a href="https://github.com/Ayush7614"><img src="https://github.com/Ayush7614/Ayush7614/blob/main/forkit.gif" /></a> 
+</p>
+
+<h2 align="center"> 👨‍💻 Who am I?</h2>
+<p align="center">
+  <samp>
+I am a Final Year Student at SRMCEM LUCKNOW currently undertaking my Bachelors in INFORMATION TECHNOLOGY Engineering. I'm a Software Developer with an experience in Development, Analysis and Content Writing with particular expertise in JAVA & ANDROID DEVELOOMENT. 
+  </samp><br><br>
+  <samp>
+  <img src="https://komarev.com/ghpvc/?username=Ayush7614" alt="Ayush7614" /> 
+</p>
 
 
 - 🔭 I’m currently working on ... JAVA & Android Projects 
@@ -16,3 +29,7 @@
 -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=karan4517&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+  
+  
+  ![](https://activity-graph.herokuapp.com/graph?username=karan4517&theme=github)
